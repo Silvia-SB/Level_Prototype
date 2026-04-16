@@ -306,7 +306,7 @@ GameObject:
   - component: {fileID: 580298423}
   - component: {fileID: 580298422}
   - component: {fileID: 580298421}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -775,7 +775,7 @@ GameObject:
   - component: {fileID: 1773643152}
   - component: {fileID: 1773643151}
   - component: {fileID: 1773643150}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cube (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -931,6 +931,30 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 580298425}
+    - target: {fileID: 8507347877796197768, guid: 5989422cb4c503d4f947d7705f01df64, type: 3}
+      propertyPath: eyeHeight
+      value: 0.49
+      objectReference: {fileID: 0}
+    - target: {fileID: 8507347877796197768, guid: 5989422cb4c503d4f947d7705f01df64, type: 3}
+      propertyPath: loseRange
+      value: 3.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 8507347877796197768, guid: 5989422cb4c503d4f947d7705f01df64, type: 3}
+      propertyPath: viewAngle
+      value: 88
+      objectReference: {fileID: 0}
+    - target: {fileID: 8507347877796197768, guid: 5989422cb4c503d4f947d7705f01df64, type: 3}
+      propertyPath: detectionRange
+      value: 2.41
+      objectReference: {fileID: 0}
+    - target: {fileID: 8507347877796197768, guid: 5989422cb4c503d4f947d7705f01df64, type: 3}
+      propertyPath: playerMask.m_Bits
+      value: 64
+      objectReference: {fileID: 0}
+    - target: {fileID: 8507347877796197768, guid: 5989422cb4c503d4f947d7705f01df64, type: 3}
+      propertyPath: obstacleMask.m_Bits
+      value: 128
+      objectReference: {fileID: 0}
     - target: {fileID: 8507347877796197768, guid: 5989422cb4c503d4f947d7705f01df64, type: 3}
       propertyPath: 'patrolPoints.Array.data[0]'
       value: 
