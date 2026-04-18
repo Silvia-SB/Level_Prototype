@@ -1,6 +1,8 @@
 fileFormatVersion: 2
-guid: 50efbeb1997f748f1b75d91c80fffbb5
-NativeFormatImporter:
+guid: 36ae8d8371deb4e43acdb35aec633024
+timeCreated: 1428513483
+licenseType: Store
+TextScriptImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
@@ -9,5 +11,5 @@ AssetOrigin:
   productId: 92152
   packageName: 3D Scifi Kit Starter Kit
   packageVersion: 3.0
-  assetPath: Assets/Creepy_Cat/3D Scifi Kit Starter Kit_HD/Prefabs/Floors/Floor_Hole_01.prefab
+  assetPath: Assets/Creepy_Cat/Readme Help Sos Doc.txt
   uploadId: 891888
